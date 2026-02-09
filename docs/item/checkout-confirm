@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TV4HQVR');</script>
+    <!-- End Google Tag Manager -->
+    <meta charset="UTF-8">
+    <title>ステップ3：購入確認ページ</title>
+    
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TV4HQVR"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <h1>ステップ3：購入確認ページ</h1>
+    <p>商品名：商品001</p>
+    <p>数量:1</p>
+    <p>価格：100円</p>
+    <p>支払額：110円（税込）</p>
+    <p class="button">購入を確定する</p>
+</body>
+</html>
